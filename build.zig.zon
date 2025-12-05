@@ -7,7 +7,8 @@
             .hash = "toolbox-1.12.6-kRAu4KNcAABarB7A8WMGTky2buzWifRrRTdVuiA1dqgb",
         },
     },
-    .minimum_zig_version = "0.15.1",
+    //.minimum_zig_version = "0.15.1",
+    .minimum_zig_version = "0.16.0-dev.1484+d0ba6642b",
     .fingerprint = 0xe457756cde206ca7,
     .paths = .{
         "build.zig",
